@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/virtual-drums/static/css/main.dbe6bf4f.chunk.css",
+    "main.js": "/virtual-drums/static/js/main.44281018.chunk.js",
+    "main.js.map": "/virtual-drums/static/js/main.44281018.chunk.js.map",
+    "runtime-main.js": "/virtual-drums/static/js/runtime-main.25325696.js",
+    "runtime-main.js.map": "/virtual-drums/static/js/runtime-main.25325696.js.map",
+    "static/js/2.0278cbae.chunk.js": "/virtual-drums/static/js/2.0278cbae.chunk.js",
+    "static/js/2.0278cbae.chunk.js.map": "/virtual-drums/static/js/2.0278cbae.chunk.js.map",
+    "index.html": "/virtual-drums/index.html",
+    "precache-manifest.5288529e32f858f7a93fd85add1bc738.js": "/virtual-drums/precache-manifest.5288529e32f858f7a93fd85add1bc738.js",
+    "service-worker.js": "/virtual-drums/service-worker.js",
+    "static/css/main.dbe6bf4f.chunk.css.map": "/virtual-drums/static/css/main.dbe6bf4f.chunk.css.map",
+    "static/js/2.0278cbae.chunk.js.LICENSE.txt": "/virtual-drums/static/js/2.0278cbae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25325696.js",
+    "static/js/2.0278cbae.chunk.js",
+    "static/css/main.dbe6bf4f.chunk.css",
+    "static/js/main.44281018.chunk.js"
+  ]
+}
